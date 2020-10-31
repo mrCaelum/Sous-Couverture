@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sous-Couverture</string>
+    <string name="players_number_label">Choisissez un nombre de joueurs :</string>
+    <string name="confirm">Ajouter le joueur</string>
+    <string name="empty_list">Vider la liste</string>
+    <string name="invalid_players_number">"Nombre de joueurs invalide ! (entre 3 et 9)"</string>
+    <string name="discover_text">Découvrir votre mot</string>
+    <string name="who_is">Qui est sous couverture ?</string>
+</resources>
